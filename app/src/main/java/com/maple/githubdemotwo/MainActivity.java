@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //第一次遇见你
         //第二次遇见你
+        //遇见了就请好好珍惜
     }
 }
